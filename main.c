@@ -1,10 +1,10 @@
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
+#include "stdio.h"
+#include "string.h"
+#include "ctype.h"
 
 #define MAX_ITEMS 100
 
-int ovqat[] = {10000, 25000, 30000, 20000, 25000, 25000, 20000, 5000};
+int ovqat[] = {12000, 25000, 30000, 20000, 25000, 25000, 20000, 5000};
 char *ovqat_nomi[] = {"Somsa", "Lagmon", "Plov", "Shashlik", "Manti", "Shurva", "Chuchvara", "Non"};
 
 int ichimlik[] = {5000, 10000, 10000, 10000, 10000, 15000, 5000, 20000};
