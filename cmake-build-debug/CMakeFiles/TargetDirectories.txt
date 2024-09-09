@@ -1,0 +1,3 @@
+/Users/solihapahridinova/Documents/preefinal/cmake-build-debug/CMakeFiles/preefinal.dir
+/Users/solihapahridinova/Documents/preefinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/solihapahridinova/Documents/preefinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
